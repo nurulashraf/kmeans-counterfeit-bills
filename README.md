@@ -1,1 +1,1 @@
-# kmeans_counterfeit_bills
+# Banknote Authentication using K-means Clustering
